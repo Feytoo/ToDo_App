@@ -1,0 +1,15 @@
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\.Net\ToDo_App\bin\Debug\net7.0\ToDo_App.exe
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\.Net\ToDo_App\bin\Debug\net7.0\ToDo_App.deps.json
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\.Net\ToDo_App\bin\Debug\net7.0\ToDo_App.runtimeconfig.json
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\.Net\ToDo_App\bin\Debug\net7.0\ToDo_App.dll
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\.Net\ToDo_App\bin\Debug\net7.0\ToDo_App.pdb
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\.Net\ToDo_App\obj\Debug\net7.0\ToDo_App.csproj.AssemblyReference.cache
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\.Net\ToDo_App\obj\Debug\net7.0\ToDo_App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\.Net\ToDo_App\obj\Debug\net7.0\ToDo_App.AssemblyInfoInputs.cache
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\.Net\ToDo_App\obj\Debug\net7.0\ToDo_App.AssemblyInfo.cs
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\.Net\ToDo_App\obj\Debug\net7.0\ToDo_App.csproj.CoreCompileInputs.cache
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\.Net\ToDo_App\obj\Debug\net7.0\ToDo_App.dll
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\.Net\ToDo_App\obj\Debug\net7.0\refint\ToDo_App.dll
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\.Net\ToDo_App\obj\Debug\net7.0\ToDo_App.pdb
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\.Net\ToDo_App\obj\Debug\net7.0\ToDo_App.genruntimeconfig.cache
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\.Net\ToDo_App\obj\Debug\net7.0\ref\ToDo_App.dll
